@@ -1,0 +1,132 @@
+{
+  "coforge": {
+    "name": "Coforge",
+    "country": "India",
+    "homepage": "https://www.coforge.com"
+  },
+  "cred": {
+    "name": "CRED (Dreamplug Technologies)",
+    "country": "India",
+    "homepage": "https://cred.club"
+  },
+  "dream11": {
+    "name": "Dream11 (Dream Sports)",
+    "country": "India",
+    "homepage": "https://www.dream11.com"
+  },
+  "flipkart": {
+    "name": "Flipkart",
+    "country": "India",
+    "homepage": "https://www.flipkart.com"
+  },
+  "freshworks": {
+    "name": "Freshworks",
+    "country": "India",
+    "homepage": "https://www.freshworks.com"
+  },
+  "gitlab": {
+    "name": "GitLab",
+    "country": "Global (US-registered, all-remote)",
+    "homepage": "https://about.gitlab.com"
+  },
+  "hcltech": {
+    "name": "HCLTech",
+    "country": "India",
+    "homepage": "https://www.hcltech.com"
+  },
+  "infoedge": {
+    "name": "Info Edge (Naukri.com)",
+    "country": "India",
+    "homepage": "https://www.infoedge.in"
+  },
+  "infosys": {
+    "name": "Infosys",
+    "country": "India",
+    "homepage": "https://www.infosys.com"
+  },
+  "inmobi": {
+    "name": "InMobi",
+    "country": "India",
+    "homepage": "https://www.inmobi.com"
+  },
+  "ltimindtree": {
+    "name": "LTIMindtree",
+    "country": "India",
+    "homepage": "https://www.ltimindtree.com"
+  },
+  "makemytrip": {
+    "name": "MakeMyTrip",
+    "country": "India",
+    "homepage": "https://www.makemytrip.com"
+  },
+  "meesho": {
+    "name": "Meesho",
+    "country": "India",
+    "homepage": "https://www.meesho.com"
+  },
+  "mphasis": {
+    "name": "Mphasis",
+    "country": "India",
+    "homepage": "https://www.mphasis.com"
+  },
+  "nykaa": {
+    "name": "Nykaa (FSN E-Commerce Ventures)",
+    "country": "India",
+    "homepage": "https://www.nykaa.com"
+  },
+  "ola": {
+    "name": "Ola (ANI Technologies)",
+    "country": "India",
+    "homepage": "https://www.olacabs.com"
+  },
+  "paytm": {
+    "name": "Paytm (One97 Communications)",
+    "country": "India",
+    "homepage": "https://www.paytm.com"
+  },
+  "persistent": {
+    "name": "Persistent Systems",
+    "country": "India",
+    "homepage": "https://www.persistent.com"
+  },
+  "phonepe": {
+    "name": "PhonePe",
+    "country": "India",
+    "homepage": "https://www.phonepe.com"
+  },
+  "razorpay": {
+    "name": "Razorpay",
+    "country": "India",
+    "homepage": "https://razorpay.com"
+  },
+  "swiggy": {
+    "name": "Swiggy",
+    "country": "India",
+    "homepage": "https://www.swiggy.com"
+  },
+  "tcs": {
+    "name": "Tata Consultancy Services",
+    "country": "India",
+    "homepage": "https://www.tcs.com"
+  },
+  "techmahindra": {
+    "name": "Tech Mahindra",
+    "country": "India",
+    "homepage": "https://www.techmahindra.com"
+  },
+  "wipro": {
+    "name": "Wipro",
+    "country": "India",
+    "homepage": "https://www.wipro.com"
+  },
+  "zoho": {
+    "name": "Zoho Corporation",
+    "country": "India",
+    "homepage": "https://www.zoho.com"
+  },
+  "zomato": {
+    "name": "Zomato (Eternal)",
+    "country": "India",
+    "homepage": "https://www.zomato.com"
+  }
+}
